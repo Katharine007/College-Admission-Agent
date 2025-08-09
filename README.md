@@ -1,4 +1,5 @@
-🎓 Customer Admission Agent – IBM watsonx.ai Chatbot
+## 🎓 Customer Admission Agent – IBM watsonx.ai Chatbot
+
 This project is an AI-powered college admission assistant built using IBM watsonx.ai and Watson Machine Learning.
 It responds to user conversations & queries and provides college admission-related information, such as the IIT admission process.
 
